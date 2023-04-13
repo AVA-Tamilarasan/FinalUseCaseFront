@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/27f7e912-b798-47fc-b008-d53d5db4b3ec/resourceGroups/AVA-EUS-Tamilarasan-RG/providers/Microsoft.Web/sites/FL-P-EUS-AP1",
+    "appService.deploySubpath": "build"
+}
